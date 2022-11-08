@@ -3,59 +3,59 @@ The following plots are generated from the 8 IMMM RCP scenarios. The top plot is
 | BA Name | Max/Mean Plot | PELT Subplot |
 | :-: | :-: | :-: |
 | AEC | [AEC](yearly_max_mean_plots/maxes_means_AEC.png) | [AEC](six_pelt_subplots/sixsubplot_AEC_pen_9.png) |
-| AECI | [AECI](yearly_max_mean_plots/maxes_means_AECI.png) |
-| AVA | [AVA](yearly_max_mean_plots/maxes_means_AVA.png) |
-| AZPS | [AZPS](yearly_max_mean_plots/maxes_means_AZPS.png) |
-| BANC | [BANC](yearly_max_mean_plots/maxes_means_BANC.png) |
-| BPAT | [BPAT](yearly_max_mean_plots/maxes_means_BPAT.png) |
-| CHPD | [CHPD](yearly_max_mean_plots/maxes_means_CHPD.png) |
-| CISO | [CISO](yearly_max_mean_plots/maxes_means_CISO.png) |
-| CPLE | [CPLE](yearly_max_mean_plots/maxes_means_CPLE.png) |
-| DOPD | [DOPD](yearly_max_mean_plots/maxes_means_DOPD.png) |
-| DUK | [DUK](yearly_max_mean_plots/maxes_means_DUK.png) |
-| EPE | [EPE](yearly_max_mean_plots/maxes_means_EPE.png) |
-| ERCO | [ERCO](yearly_max_mean_plots/maxes_means_ERCO.png) |
-| FMPP | [FMPP](yearly_max_mean_plots/maxes_means_FMPP.png) |
-| FPC | [FPC](yearly_max_mean_plots/maxes_means_FPC.png) |
-| FPL | [FPL](yearly_max_mean_plots/maxes_means_FPL.png) |
-| GCPD | [GCPD](yearly_max_mean_plots/maxes_means_GCPD.png) |
-| GVL | [GVL](yearly_max_mean_plots/maxes_means_GVL.png) |
-| HST | [HST](yearly_max_mean_plots/maxes_means_HST.png) |
-| IID | [IID](yearly_max_mean_plots/maxes_means_IID.png) |
-| IPCO | [IPCO](yearly_max_mean_plots/maxes_means_IPCO.png) |
-| ISNE | [ISNE](yearly_max_mean_plots/maxes_means_ISNE.png) |
-| JEA | [JEA](yearly_max_mean_plots/maxes_means_JEA.png) |
-| LDWP | [LDWP](yearly_max_mean_plots/maxes_means_LDWP.png) |
-| LGEE | [LGEE](yearly_max_mean_plots/maxes_means_LGEE.png) |
-| MISO | [MISO](yearly_max_mean_plots/maxes_means_MISO.png) |
-| NBSO | [NBSO](yearly_max_mean_plots/maxes_means_NBSO.png) |
-| NEVP | [NEVP](yearly_max_mean_plots/maxes_means_NEVP.png) |
-| NSB | [NSB](yearly_max_mean_plots/maxes_means_NSB.png) |
-| NWMT | [NWMT](yearly_max_mean_plots/maxes_means_NWMT.png) |
-| NYIS | [NYIS](yearly_max_mean_plots/maxes_means_NYIS.png) |
-| OVEC | [OVEC](yearly_max_mean_plots/maxes_means_OVEC.png) |
-| PACE | [PACE](yearly_max_mean_plots/maxes_means_PACE.png) |
-| PACW | [PACW](yearly_max_mean_plots/maxes_means_PACW.png) |
-| PGE | [PGE](yearly_max_mean_plots/maxes_means_PGE.png) |
-| PJM | [PJM](yearly_max_mean_plots/maxes_means_PJM.png) |
-| PNM | [PNM](yearly_max_mean_plots/maxes_means_PNM.png) |
-| PSCO | [PSCO](yearly_max_mean_plots/maxes_means_PSCO.png) |
-| PSEI | [PSEI](yearly_max_mean_plots/maxes_means_PSEI.png) |
-| SC | [SC](yearly_max_mean_plots/maxes_means_SC.png) |
-| SCEG | [SCEG](yearly_max_mean_plots/maxes_means_SCEG.png) |
-| SCL | [SCL](yearly_max_mean_plots/maxes_means_SCL.png) |
-| SEC | [SEC](yearly_max_mean_plots/maxes_means_SEC.png) |
-| SEPA | [SEPA](yearly_max_mean_plots/maxes_means_SEPA.png) |
-| SOCO | [SOCO](yearly_max_mean_plots/maxes_means_SOCO.png) |
-| SPA | [SPA](yearly_max_mean_plots/maxes_means_SPA.png) |
-| SRP | [SRP](yearly_max_mean_plots/maxes_means_SRP.png) |
-| SWPP | [SWPP](yearly_max_mean_plots/maxes_means_SWPP.png) |
-| TAL | [TAL](yearly_max_mean_plots/maxes_means_TAL.png) |
-| TEC | [TEC](yearly_max_mean_plots/maxes_means_TEC.png) |
-| TEPC | [TEPC](yearly_max_mean_plots/maxes_means_TEPC.png) |
-| TIDC | [TIDC](yearly_max_mean_plots/maxes_means_TIDC.png) |
-| TPWR | [TPWR](yearly_max_mean_plots/maxes_means_TPWR.png) |
-| TVA | [TVA](yearly_max_mean_plots/maxes_means_TVA.png) |
-| WACM | [WACM](yearly_max_mean_plots/maxes_means_WACM.png) |
-| WALC | [WALC](yearly_max_mean_plots/maxes_means_WALC.png) |
-| WAUW | [WAUW](yearly_max_mean_plots/maxes_means_WAUW.png) |
+| AECI | [AECI](yearly_max_mean_plots/maxes_means_AECI.png) | [AECI](six_pelt_subplots/sixsubplot_AECI_pen_9.png) |
+| AVA | [AVA](yearly_max_mean_plots/maxes_means_AVA.png) | [AVA](six_pelt_subplots/sixsubplot_AVA_pen_9.png) |
+| AZPS | [AZPS](yearly_max_mean_plots/maxes_means_AZPS.png) | [AZPS](six_pelt_subplots/sixsubplot_AZPS_pen_9.png) |
+| BANC | [BANC](yearly_max_mean_plots/maxes_means_BANC.png) | [BANC](six_pelt_subplots/sixsubplot_BANC_pen_9.png) |
+| BPAT | [BPAT](yearly_max_mean_plots/maxes_means_BPAT.png) | [BPAT](six_pelt_subplots/sixsubplot_BPAT_pen_9.png) |
+| CHPD | [CHPD](yearly_max_mean_plots/maxes_means_CHPD.png) | [CHPD](six_pelt_subplots/sixsubplot_CHPD_pen_9.png) |
+| CISO | [CISO](yearly_max_mean_plots/maxes_means_CISO.png) | [CISO](six_pelt_subplots/sixsubplot_CISO_pen_9.png) |
+| CPLE | [CPLE](yearly_max_mean_plots/maxes_means_CPLE.png) | [CPLE](six_pelt_subplots/sixsubplot_CPLE_pen_9.png) |
+| DOPD | [DOPD](yearly_max_mean_plots/maxes_means_DOPD.png) | [DOPD](six_pelt_subplots/sixsubplot_DOPD_pen_9.png) |
+| DUK | [DUK](yearly_max_mean_plots/maxes_means_DUK.png) | [DUK](six_pelt_subplots/sixsubplot_DUK_pen_9.png) |
+| EPE | [EPE](yearly_max_mean_plots/maxes_means_EPE.png) | [EPE](six_pelt_subplots/sixsubplot_EPE_pen_9.png) |
+| ERCO | [ERCO](yearly_max_mean_plots/maxes_means_ERCO.png) | [ERCO](six_pelt_subplots/sixsubplot_ERCO_pen_9.png) |
+| FMPP | [FMPP](yearly_max_mean_plots/maxes_means_FMPP.png) | [FMPP](six_pelt_subplots/sixsubplot_FMPP_pen_9.png) |
+| FPC | [FPC](yearly_max_mean_plots/maxes_means_FPC.png) | [FPC](six_pelt_subplots/sixsubplot_FPC_pen_9.png) |
+| FPL | [FPL](yearly_max_mean_plots/maxes_means_FPL.png) | [FPL](six_pelt_subplots/sixsubplot_FPL_pen_9.png) |
+| GCPD | [GCPD](yearly_max_mean_plots/maxes_means_GCPD.png) | [GCPD](six_pelt_subplots/sixsubplot_GCPD_pen_9.png) |
+| GVL | [GVL](yearly_max_mean_plots/maxes_means_GVL.png) | [GVL](six_pelt_subplots/sixsubplot_GVL_pen_9.png) |
+| HST | [HST](yearly_max_mean_plots/maxes_means_HST.png) | [HST](six_pelt_subplots/sixsubplot_HST_pen_9.png) |
+| IID | [IID](yearly_max_mean_plots/maxes_means_IID.png) | [IID](six_pelt_subplots/sixsubplot_IID_pen_9.png) |
+| IPCO | [IPCO](yearly_max_mean_plots/maxes_means_IPCO.png) | [IPCO](six_pelt_subplots/sixsubplot_IPCO_pen_9.png) |
+| ISNE | [ISNE](yearly_max_mean_plots/maxes_means_ISNE.png) | [ISNE](six_pelt_subplots/sixsubplot_ISNE_pen_9.png) |
+| JEA | [JEA](yearly_max_mean_plots/maxes_means_JEA.png) | [JEA](six_pelt_subplots/sixsubplot_JEA_pen_9.png) |
+| LDWP | [LDWP](yearly_max_mean_plots/maxes_means_LDWP.png) | [LDWP](six_pelt_subplots/sixsubplot_LDWP_pen_9.png) |
+| LGEE | [LGEE](yearly_max_mean_plots/maxes_means_LGEE.png) | [LGEE](six_pelt_subplots/sixsubplot_LGEE_pen_9.png) |
+| MISO | [MISO](yearly_max_mean_plots/maxes_means_MISO.png) | [MISO](six_pelt_subplots/sixsubplot_MISO_pen_9.png) |
+| NBSO | [NBSO](yearly_max_mean_plots/maxes_means_NBSO.png) | [NBSO](six_pelt_subplots/sixsubplot_NBSO_pen_9.png) |
+| NEVP | [NEVP](yearly_max_mean_plots/maxes_means_NEVP.png) | [NEVP](six_pelt_subplots/sixsubplot_NEVP_pen_9.png) |
+| NSB | [NSB](yearly_max_mean_plots/maxes_means_NSB.png) | [NSB](six_pelt_subplots/sixsubplot_NSB_pen_9.png) |
+| NWMT | [NWMT](yearly_max_mean_plots/maxes_means_NWMT.png) | [NWMT](six_pelt_subplots/sixsubplot_NWMT_pen_9.png) |
+| NYIS | [NYIS](yearly_max_mean_plots/maxes_means_NYIS.png) | [NYIS](six_pelt_subplots/sixsubplot_NYIS_pen_9.png) |
+| OVEC | [OVEC](yearly_max_mean_plots/maxes_means_OVEC.png) | [OVEC](six_pelt_subplots/sixsubplot_OVEC_pen_9.png) |
+| PACE | [PACE](yearly_max_mean_plots/maxes_means_PACE.png) | [PACE](six_pelt_subplots/sixsubplot_PACE_pen_9.png) |
+| PACW | [PACW](yearly_max_mean_plots/maxes_means_PACW.png) | [PACW](six_pelt_subplots/sixsubplot_PACW_pen_9.png) |
+| PGE | [PGE](yearly_max_mean_plots/maxes_means_PGE.png) | [PGE](six_pelt_subplots/sixsubplot_PGE_pen_9.png) |
+| PJM | [PJM](yearly_max_mean_plots/maxes_means_PJM.png) | [PJM](six_pelt_subplots/sixsubplot_PJM_pen_9.png) |
+| PNM | [PNM](yearly_max_mean_plots/maxes_means_PNM.png) | [PNM](six_pelt_subplots/sixsubplot_PNM_pen_9.png) |
+| PSCO | [PSCO](yearly_max_mean_plots/maxes_means_PSCO.png) | [PSCO](six_pelt_subplots/sixsubplot_PSCO_pen_9.png) |
+| PSEI | [PSEI](yearly_max_mean_plots/maxes_means_PSEI.png) | [PSEI](six_pelt_subplots/sixsubplot_PSEI_pen_9.png) |
+| SC | [SC](yearly_max_mean_plots/maxes_means_SC.png) | [SC](six_pelt_subplots/sixsubplot_SC_pen_9.png) |
+| SCEG | [SCEG](yearly_max_mean_plots/maxes_means_SCEG.png) | [SCEG](six_pelt_subplots/sixsubplot_SCEG_pen_9.png) |
+| SCL | [SCL](yearly_max_mean_plots/maxes_means_SCL.png) | [SCL](six_pelt_subplots/sixsubplot_SCL_pen_9.png) |
+| SEC | [SEC](yearly_max_mean_plots/maxes_means_SEC.png) | [SEC](six_pelt_subplots/sixsubplot_SEC_pen_9.png) |
+| SEPA | [SEPA](yearly_max_mean_plots/maxes_means_SEPA.png) | [SEPA](six_pelt_subplots/sixsubplot_SEPA_pen_9.png) |
+| SOCO | [SOCO](yearly_max_mean_plots/maxes_means_SOCO.png) | [SOCO](six_pelt_subplots/sixsubplot_SOCO_pen_9.png) |
+| SPA | [SPA](yearly_max_mean_plots/maxes_means_SPA.png) | [SPA](six_pelt_subplots/sixsubplot_SPA_pen_9.png) |
+| SRP | [SRP](yearly_max_mean_plots/maxes_means_SRP.png) | [SRP](six_pelt_subplots/sixsubplot_SRP_pen_9.png) |
+| SWPP | [SWPP](yearly_max_mean_plots/maxes_means_SWPP.png) | [SWPP](six_pelt_subplots/sixsubplot_SWPP_pen_9.png) |
+| TAL | [TAL](yearly_max_mean_plots/maxes_means_TAL.png) | [TAL](six_pelt_subplots/sixsubplot_TAL_pen_9.png) |
+| TEC | [TEC](yearly_max_mean_plots/maxes_means_TEC.png) | [TEC](six_pelt_subplots/sixsubplot_TEC_pen_9.png) |
+| TEPC | [TEPC](yearly_max_mean_plots/maxes_means_TEPC.png) | [TEPC](six_pelt_subplots/sixsubplot_TEPC_pen_9.png) |
+| TIDC | [TIDC](yearly_max_mean_plots/maxes_means_TIDC.png) | [TIDC](six_pelt_subplots/sixsubplot_TIDC_pen_9.png) |
+| TPWR | [TPWR](yearly_max_mean_plots/maxes_means_TPWR.png) | [TPWR](six_pelt_subplots/sixsubplot_TPWR_pen_9.png) |
+| TVA | [TVA](yearly_max_mean_plots/maxes_means_TVA.png) | [TVA](six_pelt_subplots/sixsubplot_TVA_pen_9.png) |
+| WACM | [WACM](yearly_max_mean_plots/maxes_means_WACM.png) | [WACM](six_pelt_subplots/sixsubplot_WACM_pen_9.png) |
+| WALC | [WALC](yearly_max_mean_plots/maxes_means_WALC.png) | [WALC](six_pelt_subplots/sixsubplot_WALC_pen_9.png) |
+| WAUW | [WAUW](yearly_max_mean_plots/maxes_means_WAUW.png) | [WAUW](six_pelt_subplots/sixsubplot_WAUW_pen_9.png) |
