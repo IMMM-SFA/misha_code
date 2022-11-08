@@ -1,8 +1,8 @@
 # misha_code
 The following plots are generated from the 8 IMMM RCP scenarios. The top plot is yearly mean T2 data, and the bottom plot is yearly maximum T2 data, from 2020 to 2099.
-| BA Name | Max/Mean Plot |
-| :-: | :-: |
-| AEC | [AEC](yearly_max_mean_plots/maxes_means_AEC.png) |
+| BA Name | Max/Mean Plot | PELT Subplot |
+| :-: | :-: | :-: |
+| AEC | [AEC](yearly_max_mean_plots/maxes_means_AEC.png) | [AEC](six_pelt_subplots/sixsubplot_AEC_pen_9.png) |
 | AECI | [AECI](yearly_max_mean_plots/maxes_means_AECI.png) |
 | AVA | [AVA](yearly_max_mean_plots/maxes_means_AVA.png) |
 | AZPS | [AZPS](yearly_max_mean_plots/maxes_means_AZPS.png) |
