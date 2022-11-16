@@ -1,5 +1,5 @@
-# misha_code
-The following plots are generated from the 8 IMMM RCP scenarios. The top plot is yearly mean T2 data, and the bottom plot is yearly maximum T2 data, from 2020 to 2099.
+# Misha's Internship Code
+The following plots are generated from the 8 IMMM RCP scenarios. Max/Mean Plot: the top plot is yearly mean T2 data, and the bottom plot is yearly maximum T2 data, from 2020 to 2099. PELT Subplot: 6 subplots, each taking two ssp5 scenarios and taking their difference, then applying the PELT changepoint detection method with a given penalty to detect shifts in data trends.
 | BA Name | Max/Mean Plot | PELT Subplot |
 | :-: | :-: | :-: |
 | AEC | [AEC](yearly_max_mean_plots/maxes_means_AEC.png) | [AEC](six_pelt_subplots/sixsubplot_AEC_pen_9.png) |
